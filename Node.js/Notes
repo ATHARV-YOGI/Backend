@@ -1,0 +1,14 @@
+programming lang X
+technology X
+framework X
+library X
+
+->it is called javascript runtime environment
+
+->js se backend nahi ban sakta kyoki js ke pass vo functionalities hi nahi hai jinse backend banta hai.
+ek banda hai ryan dahl isne socha js se backend banna chaiye aur ye google chrome ka v8 engine ka code jo ki open source hai uss me chedkaani karta hai, 
+kyoki chrome ka v8 engine bana hai c++ mein
+fir usne socha ki humein to js mein code krna hai 
+fir socha hum js ka code likhenge jo ki wrapper layer of js receive karegi and wo code v8 engine ke c++ modules ke saath ek server create krega
+
+so node.js = js + v8
