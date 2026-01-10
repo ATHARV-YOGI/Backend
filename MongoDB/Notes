@@ -1,0 +1,15 @@
+Data Storage:
+     aisa kuch jaha par hum saare users ki info store kar sakte hai
+
+Types of database - Sql | NoSql
+
+SQl - data ko ek roop me rakhna - tables
+
+NoSql - isme tables nhi hoti, isme objects hote hai 
+jaise -> 
+{
+    name: "atharv"
+    age: 22
+    }
+
+And hum padhenge mongoDB    
